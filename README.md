@@ -32,4 +32,4 @@ Why WellnessHub?
 
 Whether you want to improve your fitness, stay hydrated, cultivate positive habits, or boost mental health, WellnessHub provides all the tools and insights to stay motivated and maintain a balanced lifestyle. Your wellness journey, tracked and guided in one place!
 
-![image alt]()
+![image alt](https://github.com/heshan-jayaweera/WellnessHub-mobile-application/blob/81bcb24da3ce0c69e3cf43d8ecc4a8ab9a50a297/screenshots.jpg)
