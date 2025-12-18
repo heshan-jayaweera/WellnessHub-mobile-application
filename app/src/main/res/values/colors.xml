@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="hydration_blue_primary">#1E88E5</color>
+    <color name="hydration_blue_dark">#1565C0</color>
+    <color name="hydration_blue_light">#90CAF9</color>
+    <color name="hydration_blue_primary_light">#90CAF9</color>
+
+
+    <color name="seafoam_teal">#26A69A</color>
+    <color name="seafoam_teal_dark">#00796B</color>
+    <color name="seafoam_teal_light">#80CBC4</color>
+
+
+    <color name="citrus_accent">#FFC107</color>
+    <color name="citrus_accent_dark">#FFA000</color>
+    <color name="citrus_accent_light">#FFE082</color>
+
+
+    <color name="surface_light">#F5F5F5</color>
+    <color name="surface_dark">#E0E0E0</color>
+</resources>

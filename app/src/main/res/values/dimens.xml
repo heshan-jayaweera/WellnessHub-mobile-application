@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_corner_radius">12dp</dimen>
+    <dimen name="card_elevation">4dp</dimen>
+    <dimen name="card_padding">16dp</dimen>
+    <dimen name="card_margin">8dp</dimen>
+    <dimen name="text_padding">12dp</dimen>
+    <dimen name="icon_size">24dp</dimen>
+    <dimen name="day_indicator_size">40dp</dimen>
+    <dimen name="profile_photo_size">120dp</dimen>
+    <dimen name="progress_bar_height">24dp</dimen>
+    <dimen name="weekly_chart_height">120dp</dimen>
+</resources>
