@@ -20,9 +20,9 @@ Tech Stack
 
 Platform: Android
 
-Language: Java / Kotlin
+Language: Kotlin
 
-Database: SQLite / Room
+Database: SQLite
 
 UI: Material Design Components
 
