@@ -31,3 +31,5 @@ Notifications & Reminders: Android AlarmManager / WorkManager
 Why WellnessHub?
 
 Whether you want to improve your fitness, stay hydrated, cultivate positive habits, or boost mental health, WellnessHub provides all the tools and insights to stay motivated and maintain a balanced lifestyle. Your wellness journey, tracked and guided in one place!
+
+![image alt](https://github.com/heshan-jayaweera/WellnessHub-mobile-application/blob/ccf63e41bc1353ff3381e29326539406d37b3c2b/1.png)
